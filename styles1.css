@@ -2,6 +2,6 @@ html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;font-family:sans-se
 
 
 
-a.w-webflow-badge {
+a.w-webflow-badge, .forced-hidden {
     display: none !important;
 }
